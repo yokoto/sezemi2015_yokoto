@@ -1,2 +1,2 @@
-Pixivのgeta6です
+pixivのgeta6です
 javascriptが得意で最近はReactを書いています
